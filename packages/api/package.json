@@ -1,0 +1,15 @@
+{
+  "name": "working-package-2",
+  "version": "26.7.0",
+  "description": "API Component with vulnerability",
+  "engines": {
+    "node": ">=20",
+    "pnpm": ">=9"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "express": "4.17.1"
+  },
+  "devDependencies": {
+  }
+}

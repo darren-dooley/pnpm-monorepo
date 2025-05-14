@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "26.7.0",
+  "description": "UI Component with vulnerability",
+  "engines": {
+    "node": ">=20",
+    "pnpm": ">=9"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@emotion/react": "^11.13.5",
+    "lodash": "4.17.20"
+  },
+  "devDependencies": {
+    "typescript": "5.7.2"
+  }
+}
